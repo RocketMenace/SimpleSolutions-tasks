@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Анна",
+        "position": "Software Engineer",
+        "salary": 75000.00
+    },
+    {
+        "id": 2,
+        "name": "Иван",
+        "position": "Data Scientist",
+        "salary": 85000.00
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "position": "Product Manager",
+        "salary": 95000.00
+    },
+    {
+        "id": 4,
+        "name": "Bob Brown",
+        "position": "DevOps Engineer",
+        "salary": 80000.00
+    },
+    {
+        "id": 5,
+        "name": "Charlie Davis",
+        "position": "Frontend Developer",
+        "salary": 70000.00
+    }
+]
